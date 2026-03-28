@@ -40,7 +40,7 @@ Pluck Guitar
 
 Frontend: HTML5, JavaScript (ES6+)
 
-Styling: Tailwind CSS (via CDN)
+Styling: Tailwind CSS
 
 Audio Engine: HTML5 Web Audio API
 
@@ -49,6 +49,8 @@ Icons: FontAwesome
 💻 Keyboard Shortcuts
 
 Play the synthesizer using your computer keyboard like a pro MIDI controller!
+
+🎹 Octave Keys
 
 Octave
 
@@ -66,7 +68,7 @@ Upper Octave (C5 - C6)
 
 I 9 O 0 P [ = ] , L . ; /
 
-Global Controls:
+🎛️ Global Controls
 
 Spacebar : Toggle Sustain
 
@@ -80,17 +82,22 @@ Since this project relies completely on frontend technologies and the Web Audio 
 
 Clone the repository:
 
-git clone [https://github.com/yourusername/web-harmonium-pro.git](https://github.com/yourusername/web-harmonium-pro.git)
+git clone [https://github.com/pranav-garasiya/WEB-HARMONIUM-PRO.git](https://github.com/pranav-garasiya/WEB-HARMONIUM-PRO.git)
 
 
-Navigate to the project folder.
+Navigate to the folder:
+Open the downloaded project folder on your system.
 
+Run the app:
 Simply open the index.html file in any modern web browser (Chrome, Edge, Firefox, Safari).
-Note: Browsers require you to interact with the page (click a button) before audio can be played. Click "Start Audio" to initialize the audio engine.
+
+Note: Browsers require you to interact with the page before audio can be played. Click "Start Audio" to initialize the audio engine.
 
 🌐 Live Demo
 
-(You can host this for free on GitHub Pages! Once hosted, put your link here: https://yourusername.github.io/web-harmonium-pro)
+You can try the live version of this project here:
+
+👉 Play Web Harmonium Pro
 
 🤝 Contributing
 
@@ -99,5 +106,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 👨‍💻 Author
 
 Pranav Garasiya
+
+GitHub: @pranav-garasiya
 
 Give a ⭐️ if this project helped you!
